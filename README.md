@@ -4,7 +4,7 @@
 SS Geeks Store is an **e-commerce web application** that allows users to:
 - Browse products 🛍️
 - Manage a shopping cart 🛒
-- Create & manage wishlists ❤️
+- Create & manage wishlists 
 - Securely log in and register 🔐
 
 The application is built with a **Vue.js** front-end and a **Spring Boot** back-end with a **PostgreSQL** database.
