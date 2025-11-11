@@ -1,6 +1,6 @@
 # **SS Geeks E-Commerce Store**
 
-## **🛒 Overview**
+## ** Overview**
 SS Geeks Store is an **e-commerce web application** that allows users to:
 - Browse products ️
 - Manage a shopping cart 
