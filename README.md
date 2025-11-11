@@ -11,10 +11,10 @@ The application is built with a **Vue.js** front-end and a **Spring Boot** back-
 
 ---
 
-## **📁 Project Structure**
+## ** Project Structure**
 
 ### **Frontend (Vue.js)**
-📂 **`src/`**
+ **`src/`**
 - **`components/`**
   - `LoadingSpinner.vue` - Displays a loading spinner.
   - `ProductCard.vue` - Displays product details with a flip animation.
@@ -43,7 +43,7 @@ The application is built with a **Vue.js** front-end and a **Spring Boot** back-
 ---
 
 ### **Backend (Spring Boot)**
-📂 **`src/main/java/com/techelevator/`**
+ **`src/main/java/com/techelevator/`**
 - **`controller/`**
   - `AuthenticationController.java` - Handles login & registration.
   - `ProductController.java` - Manages products.
@@ -77,7 +77,7 @@ The application is built with a **Vue.js** front-end and a **Spring Boot** back-
 
 ---
 
-## **💾 Database Schema (PostgreSQL)**
+## ** Database Schema (PostgreSQL)**
 The application uses **PostgreSQL** with the following tables:
 - **`users`** - Stores user details.
 - **`product`** - Stores product information.
@@ -87,7 +87,7 @@ The application uses **PostgreSQL** with the following tables:
 
 ---
 
-## **🚀 Installation & Setup**
+## ** Installation & Setup**
 
 ### **1️⃣ Clone the Repository**
 ```sh
@@ -117,14 +117,14 @@ cd SSGeeks-Ecommerce-Store
 
 ---
 
-## **🔐 User Authentication & Authorization**
+## ** User Authentication & Authorization**
 - **JWT-based authentication** secures API endpoints.
 - Routes requiring authentication are protected with **Vue Router navigation guards**.
 - **Vuex state management** handles authentication tokens.
 
 ---
 
-## **🎯 Features**
+## ** Features**
 ### **User Features**
 ✅ Browse products
 ✅ Add/remove products from cart
@@ -144,7 +144,7 @@ cd SSGeeks-Ecommerce-Store
 
 ---
 
-## **🤝 Contributing**
+## ** Contributing**
 Pull requests are welcome! To contribute:
 1. Fork the repository 🍴
 2. Create a new branch (`git checkout -b feature-name`)
@@ -154,12 +154,12 @@ Pull requests are welcome! To contribute:
 
 ---
 
-## **📜 License**
+## ** License**
 This project is licensed under the **MIT License**.
 
 ---
 
-## **📞 Contact**
+## ** Contact**
 For questions, reach out to:
 - **GitHub:** [AhmadHabeh](https://github.com/AhmadHabeh)
 - **Email:** ahmadhabaps@gmail.com
