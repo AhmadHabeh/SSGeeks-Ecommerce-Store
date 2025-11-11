@@ -2,10 +2,10 @@
 
 ## **🛒 Overview**
 SS Geeks Store is an **e-commerce web application** that allows users to:
-- Browse products 🛍️
-- Manage a shopping cart 🛒
+- Browse products ️
+- Manage a shopping cart 
 - Create & manage wishlists 
-- Securely log in and register 🔐
+- Securely log in and register 
 
 The application is built with a **Vue.js** front-end and a **Spring Boot** back-end with a **PostgreSQL** database.
 
@@ -150,7 +150,7 @@ Pull requests are welcome! To contribute:
 2. Create a new branch (`git checkout -b feature-name`)
 3. Commit your changes (`git commit -m 'Add new feature'`)
 4. Push to your fork (`git push origin feature-name`)
-5. Open a Pull Request 📌
+5. Open a Pull Request 
 
 ---
 
@@ -166,5 +166,5 @@ For questions, reach out to:
 
 ---
 
-🔥 Built with **Vue.js, Spring Boot, and PostgreSQL** 🔥
+ Built with **Vue.js, Spring Boot, and PostgreSQL** 
 
